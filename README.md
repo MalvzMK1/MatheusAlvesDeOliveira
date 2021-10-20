@@ -1,0 +1,3 @@
+- Olá! Eu sou o <strong>Matheus Alves</strong>;
+- Tenho interesse em aprender a programar meus próprios apps/páginas web;
+- Estou aprendendo <strong>JavaScript</strong>.
