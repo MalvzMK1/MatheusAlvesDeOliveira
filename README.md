@@ -4,7 +4,7 @@
 * Estou fazendo um curso técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
 * Apredendo: HTML, CSS e Java
 
-<br>
+--------------------------------------------------------------------------------------------------------------------
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalvzMK1&theme=nightowl&layout=compact)  
  
