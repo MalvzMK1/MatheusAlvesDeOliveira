@@ -6,6 +6,5 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalvzMK1&theme=nightowl&layout=compact)  
- 
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MalvzMK1&theme=nightowl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalvzMK1&theme=nightowl&layout=compact)  
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MalvzMK1&theme=nightowl&layout=compact)
