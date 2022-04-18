@@ -5,8 +5,8 @@
 * Apredendo: HTML, CSS e Java
 
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=MalvzMK1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalvzMK1&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em"width="400em" src="https://github-readme-stats.vercel.app/api?username=MalvzMK1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em"width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalvzMK1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
