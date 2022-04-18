@@ -1,4 +1,4 @@
-## 💻🎵Matheus Alves de Oliveira🎵💻
+# <div align="center">💻🎵Matheus Alves de Oliveira🎵💻</div>
 
 * Tenho interesse em aprender a programar meus próprios apps/páginas web;
 * Estou fazendo um curso técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
