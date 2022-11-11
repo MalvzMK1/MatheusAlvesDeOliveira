@@ -11,7 +11,7 @@
 </div>
 
 <!---->
-   ![My Skills](https://skills.thijs.gg/icons?i=js,kotlin,nodejs,express,mysql,mongodb)
+   ![My Skills](https://skills.thijs.gg/icons?i=js,kotlin,nodejs,express,mysql,figma,mongodb)
 <hr>
 
 <div align="center">
