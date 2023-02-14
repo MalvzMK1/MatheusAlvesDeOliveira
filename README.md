@@ -1,14 +1,14 @@
 # <div align="center">💻🎵Matheus Alves de Oliveira🎵💻</div>
 
-#### 👨🏻‍💻 Tenho interesse em aprender a programar meus próprios apps/páginas web
+#### 👨🏻‍💻 Tenho interesse em criar meus próprios softwares
 #### 🎓 Estou fazendo um curso técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
-#### ✍🏻 Apredendo: JavaScript/Typescript para front-end e back-end, Kotlin e Banco de Dados(MySQL e MongoDB)
+#### ✍🏻 Apredendo: Typescript, React, Kotlin e Jetpack Compose
 
 #
 
-#### 👨🏻‍💻 I have interest in learning to program my own apps/web pages
+#### 👨🏻‍💻 I have interest in create my own softwares
 #### 🎓 I'm currently coursing Sistem Develop at SENAI
-#### ✍🏻 Learning: JavaScript/Typescript to front-end and back-end, Kotlin e database(MySQL and MongoDB)
+#### ✍🏻 Learning: Typescript, React, Kotlin and Jetpack Compose
 
 <div align="center">
   <div align="center">
