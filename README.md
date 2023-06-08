@@ -2,13 +2,13 @@
 
 #### 👨🏻‍💻 Tenho interesse em criar meus próprios softwares
 #### 🎓 Estou fazendo um curso técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
-#### ✍🏻 Apredendo: Typescript, React, Kotlin e Jetpack Compose
+#### ✍🏻 Apredendo: Rust, React, Kotlin e Jetpack Compose
 
 #
 
 #### 👨🏻‍💻 I have interest in create my own softwares
 #### 🎓 I'm currently coursing Sistem Develop at SENAI
-#### ✍🏻 Learning: Typescript, React, Kotlin and Jetpack Compose
+#### ✍🏻 Learning: Rust, React, Kotlin and Jetpack Compose
 
 <div align="center">
   <div align="center">
