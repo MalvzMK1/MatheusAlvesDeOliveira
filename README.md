@@ -1,14 +1,14 @@
 # <div align="center">💻🎵Matheus Alves de Oliveira🎵💻</div>
 
-#### 👨🏻‍💻 Tenho interesse em criar meus próprios softwares
-#### 🎓 Estou fazendo um curso técnico de <strong>Desenvolvimento de Sistemas</strong> no SENAI
-#### ✍🏻 Apredendo: Rust, React, Kotlin e Jetpack Compose
+#### 👨🏻‍💻 Sempre buscando a melhor qualidade no desenvolvimento
+#### 🎓 Técnico de <strong>Desenvolvimento de Sistemas</strong>
+#### ✍🏻 Apredendo: Dart, Flutter & Python
 
 #
 
-#### 👨🏻‍💻 I have interest in create my own softwares
-#### 🎓 I'm currently coursing Sistem Develop at SENAI
-#### ✍🏻 Learning: Rust, React, Kotlin and Jetpack Compose
+#### 👨🏻‍💻 Always looking for the highest development quality
+#### 🎓 Systems development technician
+#### ✍🏻 Learning: Dart, Flutter & Python
 
 <div align="center">
   <div align="center">
