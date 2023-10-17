@@ -2,13 +2,13 @@
 
 #### 👨🏻‍💻 Sempre buscando a melhor qualidade no desenvolvimento
 #### 🎓 Técnico de <strong>Desenvolvimento de Sistemas</strong>
-#### ✍🏻 Apredendo: Dart, Flutter & Python
+#### ✍🏻 Apredendo: C#
 
 #
 
 #### 👨🏻‍💻 Always looking for the highest development quality
 #### 🎓 Systems development technician
-#### ✍🏻 Learning: Dart, Flutter & Python
+#### ✍🏻 Learning: C#
 
 <div align="center">
   <div align="center">
