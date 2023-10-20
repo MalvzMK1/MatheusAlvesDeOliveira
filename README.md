@@ -2,13 +2,13 @@
 
 #### 👨🏻‍💻 Sempre buscando a melhor qualidade no desenvolvimento
 #### 🎓 Técnico de <strong>Desenvolvimento de Sistemas</strong>
-#### ✍🏻 Apredendo: C#
+#### ✍🏻 Apredendo: Ruby
 
 #
 
 #### 👨🏻‍💻 Always looking for the highest development quality
 #### 🎓 Systems development technician
-#### ✍🏻 Learning: C#
+#### ✍🏻 Learning: Ruby
 
 <div align="center">
   <div align="center">
