@@ -1,14 +1,14 @@
 # <div align="center">💻🎵Matheus Alves de Oliveira🎵💻</div>
 
 #### 👨🏻‍💻 Sempre buscando a melhor qualidade no desenvolvimento
-#### 🎓 Técnico de <strong>Desenvolvimento de Sistemas</strong>
-#### ✍🏻 Apredendo: Ruby
+#### 🎓 Técnico de Desenvolvimento de Sistemas
+#### ✍🏻 Apredendo: .NET
 
 #
 
 #### 👨🏻‍💻 Always looking for the highest development quality
 #### 🎓 Systems development technician
-#### ✍🏻 Learning: Ruby
+#### ✍🏻 Learning: .NET
 
 <div align="center">
   <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <!---->
-   ![My Skills](https://skills.thijs.gg/icons?i=java,ts,js,nodejs,express,kotlin,mysql,figma,react,graphql)
+![My Skills](https://skills.thijs.gg/icons?i=ts,nodejs,cs,nginx,azure,mysql,nextjs,graphql)
 <hr>
 
 <div align="center">
