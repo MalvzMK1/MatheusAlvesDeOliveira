@@ -1,14 +1,12 @@
 # <div align="center">💻🎵Matheus Alves de Oliveira🎵💻</div>
 
-#### 👨🏻‍💻 Sempre buscando a melhor qualidade no desenvolvimento
 #### 🎓 Técnico de Desenvolvimento de Sistemas
-#### ✍🏻 Apredendo: .NET
+#### ✍🏻 Apredendo: Estrutura de Dados e algoritmos
 
 #
 
-#### 👨🏻‍💻 Always looking for the highest development quality
 #### 🎓 Systems development technician
-#### ✍🏻 Learning: .NET
+#### ✍🏻 Learning: Data structures and algorithms
 
 <div align="center">
   <div align="center">
@@ -16,7 +14,7 @@
     <img height="170em"width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalvzMK1&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
-  ![My Skills](https://skillicons.dev/icons?i=ts,nodejs,cs,nginx,azure,mysql,nextjs,graphql)
+  ![My Skills](https://skillicons.dev/icons?i=ts,nodejs,cs,nginx,azure,mysql,nestjs)
   <hr>
 
   <div align="center">
